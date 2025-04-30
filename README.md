@@ -25,7 +25,7 @@ Este é um sistema **ERP (Enterprise Resource Planning)** desenvolvido com **Str
 - Registro de vendas com:
   - Cliente
   - Produto
-  - Valor
+  - Valores
   - Data da venda
 - Exibição de todas as vendas realizadas
 
@@ -33,7 +33,7 @@ Este é um sistema **ERP (Enterprise Resource Planning)** desenvolvido com **Str
 - Registro de transações financeiras com:
   - Tipo (Entrada ou Saída)
   - Descrição
-  - Valor
+  - Valores
   - Data
 - Exibição de todas as transações financeiras
 
