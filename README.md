@@ -50,6 +50,7 @@ Este é um sistema **ERP (Enterprise Resource Planning)** desenvolvido com **Str
 - **Python**
 - **Streamlit** – Interface do usuário
 - **Pandas** – Manipulação de dados
+- 
 - **Datetime** – Registro de datas e horários
 
 ---
